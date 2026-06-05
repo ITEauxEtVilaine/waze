@@ -5,7 +5,7 @@
         "id": "101",
         "type": "ROAD_CLOSED",
         "subtype": "NO_SUBTYPE",
-        "polyline": "47.500119 -2.381550, 47.499999 -2.381711",  
+        "polyline": "-2.381550 47.500119, -2.381711 47.499999",  
         "street": "Pont Levant",
         "starttime": "2026-08-12T16:00:00+02:00",
         "endtime": "2026-08-12T16:30:00+02:00",
