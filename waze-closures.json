@@ -6,7 +6,7 @@
         "type": "ROAD_CLOSED",
         "subtype": "NO_SUBTYPE",
         "polyline": "-2.381514 47.5001869,-2.3818637 47.4999162",
-        "street": "Pont Levant, Le Barrage (Arzal),Morbihan",
+        "street": "Pont Levant",
         "starttime": "2026-08-12T16:00:00+02:00",
         "endtime": "2026-08-12T16:30:00+02:00",
         "description": "Pont levé",
